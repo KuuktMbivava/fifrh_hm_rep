@@ -2,3 +2,20 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+
+#btnOver {
+    background-color: green;
+}
+
+#btnLess {
+    background-color: red;
+}
+
+#btnEqual {
+    background-color: orangered;
+}
+
+#number {
+    color: aqua;
+    size: 15px;
+}
